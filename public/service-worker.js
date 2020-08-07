@@ -1,3 +1,4 @@
+// an array of all of the files within the public folder that need to be cached
 const FILES_TO_CACHE = [
     "/",
     "/db.js",
